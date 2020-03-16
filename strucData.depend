@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1527078658 source:e:\jord\mini-projet\program c etc++\strucdata\main.cpp
+	"preprocess.h"
+
+1525357162 s.h"
+
+1525918201 source:e:\jord\mini-projet\program c etc++\strucdata\affichage.cpp
+	"preprocess.h"
+
+1525349152 .h"
+
+1525341126 e:\jord\mini-projet\program c etc++\strucdata\affichage.h
+	<string>
+	<iostream>
+
+1525358883 
+
+1525337549 source:e:\jord\mini-projet\program c etc++\strucdata\table.cpp
+
+1525358986 source:e:\jord\mini-projet\program c etc++\strucdata\helper.cpp
+	"preprocess.h"
+
+1525904845 e:\jord\mini-projet\program c etc++\strucdata\preprocess.h
+	<iostream>
+	<string>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"affichage.h"
+	"helper.h"
+	"LC.h"
+	"DblLC.h"
+	"CircleLC.h"
+
+1525866552 e:\jord\mini-projet\program c etc++\strucdata\helper.h
+	<string>
+
+1525345552 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/strucData/affichage.cpp
+	<string>
+	<iostream>
+	"helper.h"
+	"affichage.h"
+
+1525355283 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/strucData/helper.h
+	<string>
+
+1525337526 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/strucData/affichage.h
+	<string>
+	<iostream>
+
+1525355386 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/strucData/helper.cpp
+	"preprocess.h"
+
+1525345582 /media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/strucData/preprocess.h
+	<iostream>
+	<string>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"affichage.h"
+	"helper.h"
+
+1525343532 source:/media/jordan/9672E2FE72E2E1CB/jord/mini-projet/program c etc++/strucData/main.cpp
+	"preprocess.h"
+
+1527077329 source:e:\jord\mini-projet\program c etc++\strucdata\lc.cpp
+	"preprocess.h"
+
+1527076763 e:\jord\mini-projet\program c etc++\strucdata\lc.h
+
+1525866595 e:\jord\mini-projet\program c etc++\strucdata\dbllc.h
+
+1525866788 source:e:\jord\mini-projet\program c etc++\strucdata\dbllc.cpp
+	"preprocess.h"
+
+1525946700 source:e:\jord\mini-projet\program c etc++\strucdata\circlelc.cpp
+	"preprocess.h"
+
+1525946640 e:\jord\mini-projet\program c etc++\strucdata\circlelc.h
+
